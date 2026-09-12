@@ -8,9 +8,7 @@ Design and full-wave electromagnetic simulation of an inset line-fed microstrip 
 
 The microstrip patch antenna is fabricated with a planar radiating patch, a dielectric substrate, a ground plane, and an inset microstrip feed line designed for standard $50\,\Omega$ characteristic impedance matching.
 
-<p align="center">
-  <img src="geometry.png" alt="Microstrip Patch Antenna Geometry" width="650"/>
-</p>
+![Microstrip Patch Antenna Geometry](geometry.png)
 
 - **Configuration:** Inset / Line-Fed Rectangular Microstrip Patch Antenna
 - **Target Band:** $2.4\text{ GHz}$ ISM (Industrial, Scientific, and Medical)
