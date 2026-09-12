@@ -31,6 +31,8 @@ The antenna was analyzed across mesh refinement passes (`Mesh Pass = 1` and `Mes
 
 ## 📁 Repository Files
 
+- `microstrip_patch_antenna.cst` : CST Studio Suite 3D simulation model file
+
 - `geometry.png` : 3D CAD perspective of the line-fed patch in CST
 - `s11_plot.png` : Converged S11 reflection coefficient vs. frequency
 - `vswr_plot.png` : VSWR characteristic curve across 2–3 GHz
